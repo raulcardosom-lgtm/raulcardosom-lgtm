@@ -15,10 +15,5 @@
 
 ---
 
-### 📊 Minhas Atatísticas
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=raulcardosom-lgtm&show_icons=true&theme=dracula)
-
----
-
 ### 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/raulcardosom?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
